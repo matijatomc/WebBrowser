@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\bin\Debug\tomcMatijaWebBrowser.exe.config
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\bin\Debug\tomcMatijaWebBrowser.exe
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\bin\Debug\tomcMatijaWebBrowser.pdb
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\obj\Debug\tomcMatijaWebBrowser.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\obj\Debug\tomcMatijaWebBrowser.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\obj\Debug\tomcMatijaWebBrowser.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\obj\Debug\tomcMatijaWebBrowser.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\obj\Debug\tomcMatijaWebBrowser.exe
+C:\Users\Matija\source\repos\tomcMatijaWebBrowser\tomcMatijaWebBrowser\obj\Debug\tomcMatijaWebBrowser.pdb
